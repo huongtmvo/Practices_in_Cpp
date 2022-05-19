@@ -1,4 +1,5 @@
-# This is my first exercise in C++
+// This is my first exercise in C++
+#include <iostream>
 
 int main() {
     int i = 4;
@@ -6,6 +7,6 @@ int main() {
 
     char c = 'a';
     std::cout << i << " " << c << std::endl;
-    return 0
+    return 0;
 
 }
